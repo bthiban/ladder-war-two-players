@@ -18,6 +18,8 @@
         - Check for able to decide the winner
     
 
-## Screenshot
-    ![screenshot](unit.png)
-    ![screenshot](use.png)
+## Screenshots
+
+![screenshot](unit.png)
+    
+![screenshot](use.png)
